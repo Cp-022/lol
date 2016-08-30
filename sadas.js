@@ -1,3 +1,3 @@
 sadasd
 
-var title=123
+var title=123;
