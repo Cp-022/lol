@@ -1,4 +1,4 @@
 var testfile = 'nope' ;
 jlin = ' cool' ;
-asodnac
-asd
+var asodnac + 1;
+console.log(wannabe);
